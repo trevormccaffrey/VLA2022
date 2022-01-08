@@ -1,0 +1,11 @@
+I'm curious how spectral indices change throughout the CIV space.  Namely because, since we suggest that the CIV space (at least roughly) tracks changing radio origins, there should be corresponding a spectral index gradient throughout CIV.
+
+For now, all I care about are detections.
+
+To start, I'll just trace spectral indices from 1.4-3 GHz.
+1) Match Amy Rankine's CIV catalog to FIRST
+2) Match (1) to the new preliminary VLASS source catalog.
+
+----
+
+A
